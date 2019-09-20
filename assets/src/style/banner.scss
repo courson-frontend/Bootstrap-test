@@ -1,0 +1,10 @@
+.banner{
+    .banner-wrapper{
+        min-height: 500px;
+        background: url(../img/banner.jpg) center center no-repeat;
+        background-size: cover;
+    }
+    .banner-icons{
+        background: linear-gradient(270deg, #76BD1D 0%, rgba(118, 189, 29, 0) 97.62%), #75A05B;
+    }
+}

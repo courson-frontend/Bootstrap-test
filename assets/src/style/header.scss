@@ -1,0 +1,21 @@
+body{
+    height: 10000px;
+    background: #f4f4f4;
+}
+
+
+header{
+    min-height: 55px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 5px 13px rgba(100,100,100,.1);
+}
+
+
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: orange;
+}
